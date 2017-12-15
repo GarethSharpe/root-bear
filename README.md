@@ -10,7 +10,7 @@ This is a Java program that will process the input describing the RootBear probl
 ## Input specification
 First line contains 4 numbers 
 (s n d t) 
-where s – is y-coordinate of the south wall, n is y-coordinate of the north wall, d is diameter of the RootBear, and t is the number of trees. The following t lines have two number each 
+where s is y-coordinate of the south wall, n is y-coordinate of the north wall, d is diameter of the RootBear, and t is the number of trees. The following t lines have two number each 
 (x y) 
 with x- and y-coordinate of a tree. 
 
